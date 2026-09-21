@@ -57,14 +57,17 @@ Explain your thought process step-by-step. How did you arrive at the solution?
 
 ## Code Implementation
 
-Choose your preferred language block below and remove the others (or keep multiple if you solved it in several languages).
+Create code blocks like those done below.
 ```
 
-### Python 3
-```python
-def solution(nums, target):
-    # Your clean, commented code here
-    pass
+### C
+```c
+#include <stdlib.h>
+
+int* solution() {
+    // Your clean, commented code here
+    return NULL;
+}
 ```
 
 ### C++
@@ -78,6 +81,13 @@ vector<int> solution(vector<int>& nums, int target) {
 }
 ```
 
+### Python 3
+```python
+def solution(nums, target):
+    # Your clean, commented code here
+    pass
+```
+
 ### Java
 ```java
 import java.util.*;
@@ -86,6 +96,16 @@ class Solution {
     public int[] solution(int[] nums, int target) {
         // Your clean, commented code here
         return new int[]{};
+    }
+}
+```
+
+### Rust
+```rust
+impl Solution {
+    pub fn solution(nums: Vec<i32>, target: i32) -> Vec<i32> {
+        // Your clean, commented code here
+        vec![]
     }
 }
 ```
