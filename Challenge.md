@@ -1,6 +1,6 @@
 # Optional Challenge:
 
-Welcome to today's optional challenge! Use the method used in today's challenge to decipher the following encoded messages. Good Luck !
+Welcome to today's optional challenge! Use XOR to decipher the following encoded messages. Good Luck !
 
 ## Level 1
 
