@@ -1,7 +1,7 @@
 # Optional Challenge:
 
 Welcome to today's optional challenge! Using one of the methods used in today's challenge, decipher the following encoded messages. Good Luck !
-<If you are inspecting the code to find hints, then here you have it: use XOR. If you want more then DM me.>
+<!-- If you are inspecting the code to find hints, then here you have it: use XOR. If you want more hints then DM me. -->
 
 ## Level 1
 
